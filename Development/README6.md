@@ -4,6 +4,7 @@ It’s about meeting people where the vocabulary is, then providing the deep, nu
 
 Here is a draft for the Pilot Welcome Email. It sets the tone for the Up To A Boil brand: authentic, slightly irreverent, and deeply empathetic to that "post-school" support gap.
 
+```
 Subject: Welcome to the Crew | Your "Adult IEP" starts here.
 Hi [Client Name],
 
@@ -27,6 +28,7 @@ We’re glad you’re here. Let’s get that internal temperature back to a mana
 Stay Intense, 
 [Your Name] 
 Founder, Up To A Boil
+```
 
 How this connects to your current projects: 
 As you continue developing localSq and Phoenix Valley, we can start thinking of those platforms as the physical "Resource Rooms" for your clients.
